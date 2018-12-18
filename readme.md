@@ -41,8 +41,8 @@ Con todas las configuraciones listas, la página deberá verse de la siguiente m
 
 - Buscar el público objetivo de la empresa 
 - Crear una hoja de cálculo y categorizar las keywords
-- Hacer la primera búsqueda de keywords usando con Autosuggest y Übersuggest
-- Mejorar las keywords usando Kw finder o Keyword Difficulty Tool
+- Hacer la primera búsqueda de keywords usando [Übersuggest](https://neilpatel.com/ubersuggest/)
+- Mejorar las keywords usando [Kw finder](https://kwfinder.com/) o [Keyword Difficulty Tool](https://es.semrush.com/info/kdt)
 - Modificar el contenido de la plantilla en la página de inicio
 - Crear una entrada que incluya las keywords elegidas
 
